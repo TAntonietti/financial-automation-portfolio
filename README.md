@@ -10,13 +10,13 @@
 ## 📁 Portfolio Structure
 
 ### 📄 Professional Profiles
-- [English CV](docs/English_CV.pdf)
-- [Spanish CV](docs/Spanish_CV.pdf)
+- [English CV](docs/Antonietti_Tomas_English_CV.pdf)
+- [Spanish CV](docs/Antonietti_Tomas_Spanish_CV.pdf)
 
 ### 🏆 Project Portfolio
-- **AP Automation Suite** → [View Full Architecture](AP_Automation_Report.pdf)
-- **Tax Reporting Engine** → [View Full Architecture](Tax_VAT_Report.pdf)
-- **Business Intelligence** → [View Full Architecture](BI_Report.pdf)
+- **AP Automation Suite** → [View Full Architecture](docs/AP_Automation_Report.pdf)
+- **Tax Reporting Engine** → [View Full Architecture](docs/Tax_VAT_Report.pdf)
+- **Business Intelligence** → [View Full Architecture](docs/BI_Report.pdf)
 - **System Architecture** → [View Full Architecture](ARCHITECTURE.md)
 - **Historical Context** → [View Transformation Story](CONTEXT.md)
 - **Quantified Achievements** → [View Detailed Metrics](ACHIEVEMENTS.md)
@@ -119,7 +119,8 @@ HELIOS is a complete financial automation system built with Python that transfor
 2. **Constraint Innovation**: Built with $0 budget using open-source tools
 3. **Complete Lifecycle**: From problem identification to implementation
 4. **Quantifiable Results**: Every claim backed by measurable data
-5. **Business-Technical Bridge**: Financial knowledge + technical implementation
+5. **Business-Technical Bridge**: Financial expertise + technical implementation
 
 ---
 
+*Last Updated: March 2025 | System in production since December 2024*
