@@ -1,19 +1,19 @@
 ## 📊 HELIOS System Diagrams
 
 ### 📅 AP Process - Accounts Payable (32 hours / 4 days)
-![Diagrama de Arquitectura](images/diagram_AP.svg)
+![Diagrama de Arquitectura](docs/images/diagram_AP.svg)
 
 ### 🧾 TAX Process - Tax Reporting (7 hours / 1 day)
-![Diagrama de Arquitectura](images/diagram_TAX.svg)
+![Diagrama de Arquitectura](docs/images/diagram_TAX.svg)
 
 ### 📈 BI Process - Business Intelligence (1 hour)
-![Diagrama de Arquitectura](images/diagram_BI.svg)
+![Diagrama de Arquitectura](docs/images/diagram_BI.svg)
 
 ### 🏗️ Historical Context - HELIOS vs. Initial Situation
-![Diagrama de Arquitectura](images/diagram_context.svg)
+![Diagrama de Arquitectura](docs/images/diagram_context.svg)
 
 ### 📊 HELIOS Summary - Systems Created from Scratch
-![Diagrama de Arquitectura](images/diagram_summary.svg)
+![Diagrama de Arquitectura](docs/images/diagram_summary.svg)
 
 
 # 🏗️ HELIOS System Architecture
