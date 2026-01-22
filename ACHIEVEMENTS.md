@@ -7,7 +7,7 @@
 | **AP Cycle Time** | 40+ days | 4 days | 90% reduction | Faster processing |
 | **Monthly Work Hours** | 200+ hours | 40 hours | 80% efficiency gain | Time savings |
 | **Monthly Discrepancy** | USD 2,000 | USD 0 | 100% elimination | Financial accuracy |
-| **OCR Accuracy** | ~85% manual | 99.8% key suppliers | +14.8% accuracy | Reduced manual work |
+| **OCR Accuracy** | none | 99.8% key suppliers | +99.8% accuracy | Reduced manual work |
 | **Report Generation** | 8+ hours manual | 0 hours automatic | 100% automation | Executive time saved |
 | **Annual Recovery** | $0 detected | USD 24,000 recovered | Direct financial benefit | Cost savings |
 | **Process Coverage** | 1 process (AP only) | 3 processes (AP+TAX+BI) | 200% expansion | Comprehensive system |
@@ -23,7 +23,7 @@
 
 ### Operational Impact:
 - **Process Creation**: Built 2 new systems from scratch (TAX & BI)
-- **Data Visibility**: Track USD 1.75B revenue, 80,000+ covers
+- **Data Visibility**: Track ARS 1.75B revenue, 80,000+ covers
 - **Compliance**: Established first formal tax reporting process
 - **Scalability**: Framework for adding new suppliers/locations
 
@@ -50,7 +50,7 @@
 - **Strategy**: 80/20 rule (automate 9 key suppliers, optimize 11 minor)
 
 ### Tax Reporting:
-- **Scope**: IVA, IIBB, 931 reports for 3 legal entities
+- **Scope**: VAT, IIBB, 931 reports for 3 legal entities
 - **Time**: Reduced from non-existent to 7 hours/month
 - **Automation**: 60% semi-automated despite government constraints
 
@@ -88,4 +88,3 @@
 
 ---
 
-*Quantified Achievements | HELIOS System |January 2026*

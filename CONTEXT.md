@@ -13,8 +13,8 @@
 
 #### 🧾 **TAX Reporting - Non-Existent**
 - **Status**: Assigned but not executed
-- **Process**: Ad-hoc, last-minute preparations
-- **Risk**: Compliance issues with AFIP
+- **Process**: Last-minute preparations
+- **Risk**: Compliance issues with AFIP/ARCA
 - **Tracking**: No analysis of tax positions
 
 #### 📈 **Business Intelligence - Non-Existent**
@@ -28,18 +28,18 @@
 ### Phase 1: Solving the Immediate Crisis (USD 2,000 Monthly Discrepancy)
 - **Goal**: "Make the numbers add up"
 - **Discovery**: Problem was systemic, not arithmetic
-- **Solution**: Replaced Google Sheets with Python automation
+- **Solution**: Replaced Google Sheets with an Excel system, later with Python automation
 - **Result**: USD 2,000/month discrepancy → **USD 0**
 
 ### Phase 2: From Firefighter to Strategist
 - **Purchase Control**: Added real-time validation
-- **Stock Analysis**: Enabled inventory optimization
+- **Stock Analysis**: Enabled inventory optimization through control
 - **Tax Automation**: Extended to 3 entities, 5 locations
 - **Business Intelligence**: Transformed data into insights
 
 ### Phase 3: Creating What Didn't Exist
 - **TAX System**: Created from scratch (7 hours/month)
-- **BI System**: Created from scratch (1 hour/month)
+- **BI System**: Created from scratch (1 hour/semester)
 - **Impact**: First formal processes in company history
 
 ## 📊 The Transformation in Numbers
@@ -71,14 +71,14 @@
 ## 📈 The Evolution of My Role
 
 ### Timeline of Transformation:
-- **Month 1-2**: Firefighter (solving USD 2,000 discrepancy)
-- **Month 3-4**: Systems Builder (creating AP automation)
-- **Month 5-6**: Process Creator (building TAX and BI systems)
-- **Month 7-12**: Strategic Analyst (business insights and optimization)
+- **Month 1-3**: Firefighter (solving USD 2,000 discrepancy)
+- **Month 4-7**: Systems Builder (creating AP automation)
+- **Month 8-9**: Process Creator (building TAX and BI systems)
+- **Month 10-12**: Strategic Analyst (business insights and optimization)
 
 ### Role Evolution Metrics:
 - **Before**: 100% time on repetitive reconciliation
-- **After**: 30% system maintenance, 70% analysis and improvement
+- **After**: 20% system maintenance, 80% analysis and improvement
 - **Transformation**: From tactical executor to strategic analyst
 
 ## 🎖️ Why This Matters for Your Organization
@@ -88,14 +88,6 @@
 2. **A Systems Thinker**
 3. **A Constraint Innovator**
 4. **A Natural Strategist**
-
-## 🔮 The Future of HELIOS
-
-### Potential Next Steps:
-1. Expand to other business units
-2. Migrate to cloud services (if budget allows)
-3. Add machine learning for predictive analytics
-4. Create API ecosystem with other systems
 
 ## 📋 Executive Summary
 
@@ -118,5 +110,3 @@
 - A foundation for continuous improvement
 
 ---
-
-*Historical Context | HELIOS System | Document Version 1.0 | January 2026*

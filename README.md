@@ -14,9 +14,9 @@
 - [Spanish CV](docs/Antonietti_Tomas_Spanish_CV.pdf)
 
 ### 🏆 Project Portfolio
-- **AP Automation Suite** → [View Full Architecture](docs/AP_Automation_Report.pdf)
-- **Tax Reporting Engine** → [View Full Architecture](docs/Tax_VAT_Report.pdf)
-- **Business Intelligence** → [View Full Architecture](docs/BI_Report.pdf)
+- **AP Automation Suite** → [View Full AP System](docs/AP_Automation_Report.pdf)
+- **Tax Reporting Engine** → [View Full TAX Engine](docs/Tax_VAT_Report.pdf)
+- **Business Intelligence** → [View Full BI](docs/BI_Report.pdf)
 - **System Architecture** → [View Full Architecture](ARCHITECTURE.md)
 - **Historical Context** → [View Transformation Story](CONTEXT.md)
 - **Quantified Achievements** → [View Detailed Metrics](ACHIEVEMENTS.md)
@@ -74,8 +74,8 @@ HELIOS is a complete financial automation system built with Python that transfor
 | **Monthly Cycle Time** | 40+ days | 4 days | 90% |
 | **Monthly Work Hours** | 200+ hours | 40 hours | 80% |
 | **Monthly Discrepancy** | USD 2,000 | USD 0 | 100% |
-| **OCR Accuracy** | ~85% manual | 99.8% key suppliers | +14.8% |
-| **Report Generation** | 25+ hours manual | 0 hours automatic | 100% |
+| **OCR Accuracy** | ~0% | 99.8% key suppliers | +99.8% |
+| **Report Generation** | 8+ hours manual | 0 hours automatic | 100% |
 
 ## 🔄 Process Flow
 
@@ -123,4 +123,3 @@ HELIOS is a complete financial automation system built with Python that transfor
 
 ---
 
-*Last Updated: March 2025 | System in production since December 2024*

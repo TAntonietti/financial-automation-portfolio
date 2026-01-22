@@ -28,11 +28,11 @@
 
 ### 🧾 TAX Process - Tax Reporting (7 hours / 1 day)
 - **Scope**: IVA, IIBB, 931 reports for 3 legal entities
-- **Challenges**: AFIP portal limitations, poor quality tickets
+- **Challenges**: AFIP/ARCA portal limitations, poor quality tickets
 - **Automation Level**: 60% due to government system constraints
 
 ### 📈 BI Process - Business Intelligence (1 hour)
-- **Data Volume**: USD 1.75B revenue, 80,000+ covers
+- **Data Volume**: ARS 1.75B (USD 1.31M) revenue, 80,000+ covers
 - **Tools**: Python, pandas, matplotlib, plotly
 - **Output**: Automated dashboards with predictive analytics
 
@@ -47,7 +47,7 @@
 Raw Input → Classification → OCR Processing → Validation → Consolidation → Reporting
 
 ### Validation System
-- **Penny-level accuracy**: System stops if discrepancy > $0.01
+- **Penny-level accuracy**: System Notification if discrepancy > $0.01
 - **Multi-dimensional reconciliation**: 3 legal entities × 5 locations
 - **Automated alerts**: Missing emails, format errors, validation failures
 
@@ -66,7 +66,7 @@ Raw Input → Classification → OCR Processing → Validation → Consolidation
 ### Core Technologies:
 - **Programming Language**: Python 3.9+ (9,000+ lines of business logic)
 - **OCR & Data Extraction**: Tesseract OCR (fine-tuned per supplier), Gmail API, pandas
-- **Reporting & Visualization**: reportlab (PDF), matplotlib/plotly, SQLite
+- **Reporting & Visualization**: reportlab (PDF), matplotlib/plotly
 - **Process Automation**: Custom ETL pipelines, rule-based validation engines
 
 ### System Constraints & Solutions:
@@ -75,7 +75,7 @@ Raw Input → Classification → OCR Processing → Validation → Consolidation
 | **$0 Budget** | Open-source stack (Python, Tesseract) | Infinite ROI |
 | **Poor Quality Invoices** | 50+ OCR iterations per supplier | 99.8% accuracy |
 | **Manual Processes** | Strategic 80/20 automation | 80% volume automated |
-| **Governmental Systems** | Semi-automated templates | 60% automation where possible |
+| **Governmental Systems** | Semi-automated templates |
 
 ## 🎯 Architectural Decisions
 
@@ -109,8 +109,6 @@ Raw Input → Classification → OCR Processing → Validation → Consolidation
 ### Scalability Path:
 - Add new digital suppliers: Copy existing OCR engine pattern
 - Migrate to cloud OCR: Replace Tesseract with Google Cloud Vision (if budget allows)
-- Database upgrade: SQLite → PostgreSQL for larger datasets
-- Real-time processing: Move from batch to streaming processing
 
 ### Maintenance Requirements:
 - **Monthly**: 40 hours (32 AP + 7 TAX + 1 BI)
