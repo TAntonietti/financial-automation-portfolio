@@ -7,7 +7,7 @@
 | **AP Cycle Time** | 40+ days | 4 days | 90% reduction | Faster processing |
 | **Monthly Work Hours** | 200+ hours | 40 hours | 80% efficiency gain | Time savings |
 | **Monthly Discrepancy** | USD 2,000 | USD 0 | 100% elimination | Financial accuracy |
-| **OCR Accuracy** | none | 99.8% key suppliers | +99.8% accuracy | Reduced manual work |
+| **OCR Accuracy** | None | 99.8% key suppliers | +99.8% accuracy | Reduced manual work |
 | **Report Generation** | 8+ hours manual | 0 hours automatic | 100% automation | Executive time saved |
 | **Annual Recovery** | $0 detected | USD 24,000 recovered | Direct financial benefit | Cost savings |
 | **Process Coverage** | 1 process (AP only) | 3 processes (AP+TAX+BI) | 200% expansion | Comprehensive system |
@@ -55,7 +55,7 @@
 - **Automation**: 60% semi-automated despite government constraints
 
 ### Business Intelligence:
-- **Data**: USD 1.75B revenue tracking
+- **Data**: ARS 1.75B (USD 1.31M) revenue tracking
 - **Analysis**: Predictive analytics and trend identification
 - **Automation**: 100% processing automated after manual data prep
 

@@ -20,7 +20,7 @@
 #### 📈 **Business Intelligence - Non-Existent**
 - **Analysis**: Only when problems arose
 - **Reports**: Manual Excel, time-consuming
-- **Revenue Tracking**: No visibility into USD 1.75B
+- **Revenue Tracking**: No visibility into ARS 1.75B (USD 1.31M)
 - **Insights**: Flying blind on business trends
 
 ## 🚀 My Intervention: Building HELIOS from Scratch
@@ -72,9 +72,9 @@
 
 ### Timeline of Transformation:
 - **Month 1-3**: Firefighter (solving USD 2,000 discrepancy)
-- **Month 4-7**: Systems Builder (creating AP automation)
-- **Month 8-9**: Process Creator (building TAX and BI systems)
-- **Month 10-12**: Strategic Analyst (business insights and optimization)
+- **Month 4-7**: Systems Analyst (creating AP automation)
+- **Month 8-9**: Process Analyst (building TAX and BI systems)
+- **Month 10-12**: Analyst (business insights and optimization)
 
 ### Role Evolution Metrics:
 - **Before**: 100% time on repetitive reconciliation

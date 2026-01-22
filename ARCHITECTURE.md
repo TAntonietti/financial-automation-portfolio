@@ -27,7 +27,7 @@
 - **Output**: 25-30 page PDF reports with complete reconciliation
 
 ### 🧾 TAX Process - Tax Reporting (7 hours / 1 day)
-- **Scope**: IVA, IIBB, 931 reports for 3 legal entities
+- **Scope**: VAT/IVA, IIBB, 931 reports for 3 legal entities
 - **Challenges**: AFIP/ARCA portal limitations, poor quality tickets
 - **Automation Level**: 60% due to government system constraints
 
@@ -75,17 +75,17 @@ Raw Input → Classification → OCR Processing → Validation → Consolidation
 | **$0 Budget** | Open-source stack (Python, Tesseract) | Infinite ROI |
 | **Poor Quality Invoices** | 50+ OCR iterations per supplier | 99.8% accuracy |
 | **Manual Processes** | Strategic 80/20 automation | 80% volume automated |
-| **Governmental Systems** | Semi-automated templates |
+| **Governmental Systems** | Semi-automated templates | 100% Real time data |
 
 ## 🎯 Architectural Decisions
 
 1. **OCR-per-Supplier vs. Universal Model**
    - Decision: Create 9 separate OCR engines
    - Rationale: Argentine invoices have highly variable formats by supplier
-   - Result: 99.8% accuracy vs. ~85% with generic OCR
+   - Result: 99.8% accuracy
 
 2. **Penny-Level Validation**
-   - Decision: Stop process if discrepancy > $0.01
+   - Decision: Notification if discrepancy > $0.01
    - Rationale: Financial accuracy is non-negotiable
    - Result: 100% reconciliation accuracy
 

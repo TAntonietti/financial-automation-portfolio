@@ -49,12 +49,12 @@ HELIOS is a complete financial automation system built with Python that transfor
 - **Output**: 25-30 page executive PDF reports (100% automated)
 
 ### 🧾 **Tax Reporting Engine** (7 hours/month)
-- **Scope**: IVA, IIBB, 931 reports for 3 legal entities
-- **Challenges**: AFIP portal limitations, unreadable tickets (faded ink, tiny print)
+- **Scope**: VAT/IVA, IIBB, 931 reports for 3 legal entities
+- **Challenges**: AFIP/ARCA tax portal limitations, unreadable tickets (faded ink, tiny print)
 - **Automation**: 60% semi-automated due to governmental system constraints
 
 ### 📈 **Business Intelligence Dashboards** (1 hour/month)
-- **Tracking**: USD 1.75B revenue, 80,000+ covers
+- **Tracking**: ARS 1.75B revenue (USD 1.31M), 80,000+ covers
 - **Analysis**: Predictive analytics, trend identification, projections
 - **Automation**: 100% automated processing after manual data preparation
 
