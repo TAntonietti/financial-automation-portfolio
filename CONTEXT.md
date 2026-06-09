@@ -1,6 +1,6 @@
 # 📜 Historical Context - HELIOS System Transformation
 
-## 🕰️ Initial Situation (2024)
+## 🕰️ Initial Situation
 
 ### The Financial Chaos I Inherited:
 
@@ -69,12 +69,6 @@
 4. **Built Institutional Knowledge**: Documented processes vs. tribal knowledge
 
 ## 📈 The Evolution of My Role
-
-### Timeline of Transformation:
-- **Month 1-3**: Firefighter (solving USD 2,000 discrepancy)
-- **Month 4-7**: Systems Analyst (creating AP automation)
-- **Month 8-9**: Process Analyst (building TAX and BI systems)
-- **Month 10-12**: Analyst (business insights and optimization)
 
 ### Role Evolution Metrics:
 - **Before**: 100% time on repetitive reconciliation

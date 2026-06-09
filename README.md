@@ -2,7 +2,7 @@
 
 **Accounts Payable Specialist | Financial Process Automation Analyst**
 
-📍 Callao 1975 - CABA - Argentina  
+📍 Rodriguez Peña 1632 - CABA - Argentina  
 📧 tomy.antonietti@gmail.com  
 📱 +54 9 261 616 8316  
 🔗 linkedin.com/in/tomasantonietti  
@@ -11,7 +11,7 @@
 
 ### 📄 Professional Profiles
 - [English CV](docs/Antonietti_Tomas_English_CV.pdf)
-- [Spanish CV](docs/Antonietti_Tomas_Spanish_CV.pdf)
+
 
 ### 🏆 Project Portfolio
 - **AP Automation Suite** → [View Full AP System](docs/AP_Automation_Report.pdf)
